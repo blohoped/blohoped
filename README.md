@@ -1,4 +1,7 @@
 <h1 align="center"> <img src="https://media.tenor.com/VE0M3FYRwxQAAAAj/wave-hi.gif" width="40px"> Привет всем! Я - начинающий программист на Python <img src="https://media.tenor.com/VE0M3FYRwxQAAAAj/wave-hi.gif" width="40px"> </h1>
+<div align="center">
+  <img height="400" width="700" src="https://i.pinimg.com/originals/3d/53/20/3d5320844e67f6285cf086f0442407d8.gif"  />
+</div>
 <h3 align="center"> <img src="https://media.tenor.com/tLAkjiVNTc0AAAAi/kronk-reaction.gif" width="20px"> Что я вообще такое?</h3>
 
 <h4 align="center"> <img src="https://media.tenor.com/QY1_MUHK9nYAAAAi/emoji-meme.gif" width="20px"> Повторимся ещё раз: начинающий программист на Python.
