@@ -1,12 +1,14 @@
-## <img src="https://media.tenor.com/VE0M3FYRwxQAAAAj/wave-hi.gif" width="40px"> Привет всем! Я - начинающий программист на Python
+<h1 align="center"> <img src="https://media.tenor.com/VE0M3FYRwxQAAAAj/wave-hi.gif" width="40px"> Привет всем! Я - начинающий программист на Python <img src="https://media.tenor.com/VE0M3FYRwxQAAAAj/wave-hi.gif" width="40px"> </h1>
+<h3 align="center"> <img src="https://media.tenor.com/tLAkjiVNTc0AAAAi/kronk-reaction.gif" width="20px"> Что я вообще такое?</h3>
+
+<h4 align="center"> <img src="https://media.tenor.com/QY1_MUHK9nYAAAAi/emoji-meme.gif" width="20px"> Повторимся ещё раз: начинающий программист на Python. 
+<h4 align="center"> <img src="https://media.tenor.com/CIUfNV9wAVkAAAAi/aintbelievinit.gif" width="20px"> Занимаюсь уже больше 1 года, и здесь буду выкладывать различные мини-проекты.
+<h4 align="center"> <img src="https://media.tenor.com/HWJifVS6JUoAAAAj/bonk-stupid.gif" width="20px"> Не супер-кодер. Если нашли ошибку - не пинайте меня тапками (больно вообще-то, и бесполезно).
+<h4 align="center"> <img src="https://media.tenor.com/Cuj4wct4xg8AAAAi/pode-pode-pode.gif" width="20px"> Лучше напишите, как это исправить.
+
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-user-contribution.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="github-user-snake.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-user-snake.svg" />
+  <img alt="github-user-snake.sv" src="github-user-snake.svg" />
 </picture>
-
-### <img src="https://media.tenor.com/HWJifVS6JUoAAAAi/bonk-stupid.gif" width="30px"> Чё я такое вообще
-- Пишу всякие программки по желанию. Не супер-кодер. Не удивляйтесь, если здесь какие-то репозитории удаляться - это нормально
-- Не бейте тапком за какие-то недочёты. Лучше скажите, как их исправить (поверьте, это НАМНОГО лучше <img src="https://media.tenor.com/9aOx9lve2t8AAAAi/emoji-shrug.gif" width="30px">)
-- 
